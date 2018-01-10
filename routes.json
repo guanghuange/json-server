@@ -1,5 +1,5 @@
 {
   "/blog/:resource/:id/show": "/:resource/:id",
   "/blog/:category": "/posts?category=:category",
-  "/jos\\?method=:id": "/jingdong.eclp.order.queryOrderPacks"
+  "/jos\\?access_token=:access_token&timestamp=:timestamp&v=:v&app_key=:app_key&sign=:sign&360buy_param_json=:360buy_param_json&method=:method": "/:method"
 }
