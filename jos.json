@@ -1,0 +1,19 @@
+{
+	"jingdong.eclp.order.queryOrderPacks": {
+		"jingdong_eclp_order_queryOrderPacks_responce": {
+			"code": "0",
+			"queryorderpacks_result": [{
+				"isvUUID": "INV000116558",
+				"shipperName": "京东配送",
+				"shipperNo": "CYS0000010",
+				"eclpSoNo": "ESL44181903895470",
+				"orderPackageList": [{
+					"packageNo": "VA38148208033-1-1-0",
+					"packWeight": 0.38
+				}],
+				"wayBill": "VA381482080330",
+				"packCount": 1
+			}]
+		}
+	}
+}
